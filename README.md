@@ -23,7 +23,7 @@ A capstone project analyzing 6,000+ startup funding records in India using Pytho
 - pandas
 - matplotlib
 - seaborn
-- VS Code
+- Jupyter Notebook
 
 ---
 
